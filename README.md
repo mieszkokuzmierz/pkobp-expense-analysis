@@ -1,2 +1,2 @@
 # pkobp-expense-analysis
-Python tool to analyse expenses from exported .csv file // Narzędzie w Pythonie do analizy wydatków z pliku CSV eksportowanego z PKO BP.
+Python tool to analyse expenses from exported .csv file from PKO BP. Jupyter notebook is written in notebooks folder
