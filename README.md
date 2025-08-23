@@ -1,29 +1,26 @@
-# PKO BP Expense Analysis
+PKO BP Expense Analysis
 
 A simple project analyzing bank transaction data exported from PKO BP online banking.  
 It demonstrates the use of **Python** and **pandas** for data cleaning and financial analysis.
 
-## Features
+Features
+
 - Load and preprocess CSV transaction files  
 - Summarize incomes, expenses, and overall balance  
 - Identify top spending categories and days  
 - Provide daily statistics for better insights  
 
-## Project structure
+Folders and files
 
-pkobp-expense-analysis/
-├── data/ # Example CSV with sample transactions
-├── notebooks/ # Jupyter notebooks for exploration
-├── src/ # Python scripts
-│ ├── analyze_expenses.py
-│ └── analyze_all.py
-└── README.md
+- data/ # Example CSV with sample transactions
+- notebooks/ # Jupyter notebooks for exploration
+- src/ # Python scripts
+- README.md
 
+Usage
 
-## Usage
 Place your PKO BP CSV export in the `data/` folder and run:
 
-```bash
 python src/analyze_all.py
 
 Notes
